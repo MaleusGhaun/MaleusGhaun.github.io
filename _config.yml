@@ -61,7 +61,6 @@ author:
   name   : "Maleus Ghaun"
   avatar : "/assets/images/MALEUS_GHAUN_smaller_SMALER.png"
   bio    : "“Any sufficiently advanced technology is indistinguishable from magic.”  
-  Does this work test1"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,9 +71,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaleusGhaun"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -84,9 +80,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaleusGhaun"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
