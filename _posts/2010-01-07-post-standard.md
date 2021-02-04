@@ -3,6 +3,8 @@ title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+  - TestCategory
+  - Banana2
 tags:
   - Post Formats
   - readability
