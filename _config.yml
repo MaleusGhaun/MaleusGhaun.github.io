@@ -59,6 +59,7 @@ author:
   name   : "Maleus Ghaun"
   avatar : "/assets/images/MALEUS_GHAUN_smaller_SMALER.png"
   bio    : "“Any sufficiently advanced technology is indistinguishable from magic.”"  
+  locaton: "Undernet"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
