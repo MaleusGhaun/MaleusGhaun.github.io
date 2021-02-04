@@ -69,7 +69,7 @@ author:
       url: "https://hackthebox.eu"
     - label: "TryHackMe"
       icon: "fas fa-fw fa-cloud"
-      url: "https://tryhackme.com"
+      url: "https://tryhackme.com/p/Maleus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaleusGhaun"
