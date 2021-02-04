@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Maleus Ghaun"
   avatar : "/assets/images/MALEUS_GHAUN_smaller_SMALER.png"
-  bio    : "“Any sufficiently advanced technology is indistinguishable from magic.”"
+  bio    : "“Any sufficiently advanced technology is indistinguishable from magic.”<br>test1, test2, tes3"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
