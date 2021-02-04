@@ -1,5 +1,6 @@
 ---
 title: "Post: Modified Date"
+date: 2011-02-02
 last_modified_at: 2016-03-10
 categories:
   - Blog
