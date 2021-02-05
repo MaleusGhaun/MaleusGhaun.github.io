@@ -109,6 +109,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        - title: "Title"
+          text: "Some text here."      
 
 category_archive:
   type: liquid
