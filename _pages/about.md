@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Average person studying to become a penetration tester or red team member. 
+Aspiring penetration tester or red team member. 
 
-Valid certifications that I hold are: GSEC, GCIH, GPEN. 
+Currently working on prepping for the OSCP PWK (Penetration Testing With Kali Linux). 
+
+Valid certifications that I currently hold are: GSEC, GCIH, GPEN. 
+
