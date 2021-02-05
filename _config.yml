@@ -70,10 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaleusGhaun"
-      
-sidebar:
-  - title: "Title"
-    text: "Some text here."      
+  sidebar:
+    - title: "Title"
+      text: "Some text here."         
 
 footer:
   links:
