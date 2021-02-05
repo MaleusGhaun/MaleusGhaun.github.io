@@ -69,10 +69,7 @@ author:
       url: "https://tryhackme.com/p/Maleus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MaleusGhaun"
-  sidebar:
-    - title: "Title"
-      text: "Some text here."         
+      url: "https://github.com/MaleusGhaun"     
 
 footer:
   links:
